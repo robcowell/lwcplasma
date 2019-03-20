@@ -1,0 +1,225 @@
+[
+    [
+        "d:\\code\\lwctest\\force-app",
+        {
+            "sourcePath": "d:\\code\\lwctest\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548280155937,
+            "changeTime": 1548280155937,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "d:\\code\\lwctest\\force-app\\main",
+        {
+            "sourcePath": "d:\\code\\lwctest\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548280156297,
+            "changeTime": 1548280156297,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "d:\\code\\lwctest\\force-app\\main\\default",
+        {
+            "sourcePath": "d:\\code\\lwctest\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548313646031,
+            "changeTime": 1548313646031,
+            "contentHash": "da7c532ef86878a3b7315e2e6cee32eee5f76d8b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\code\\lwctest\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "d:\\code\\lwctest\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548280156297,
+            "changeTime": 1548280156297,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "d:\\code\\lwctest\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "d:\\code\\lwctest\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548280416308,
+            "changeTime": 1548280416308,
+            "contentHash": "d94151f2a0935856be7840db349d378f4a95ce17",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "d:\\code\\lwctest\\force-app\\main\\default\\lwc\\plasma",
+        {
+            "sourcePath": "d:\\code\\lwctest\\force-app\\main\\default\\lwc\\plasma",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548280416352,
+            "changeTime": 1548280416352,
+            "contentHash": "c09f49f0d4a7f68672fa992eb827145026946b58",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "d:\\code\\lwctest\\force-app\\main\\default\\lwc\\plasma\\plasma.html",
+        {
+            "state": "u",
+            "sourcePath": "d:\\code\\lwctest\\force-app\\main\\default\\lwc\\plasma\\plasma.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 846,
+            "modifiedTime": 1548315468348,
+            "changeTime": 1548315468348,
+            "isWorkspace": false,
+            "contentHash": "f252e28b321757c2103a20e3d315e56d9cbdf338"
+        }
+    ],
+    [
+        "d:\\code\\lwctest\\force-app\\main\\default\\lwc\\plasma\\plasma.js",
+        {
+            "sourcePath": "d:\\code\\lwctest\\force-app\\main\\default\\lwc\\plasma\\plasma.js",
+            "isDirectory": false,
+            "size": 336,
+            "modifiedTime": 1548314132082,
+            "changeTime": 1548314132082,
+            "contentHash": "4bce14cc9875dfcba8686f148b55521b998110e6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "d:\\code\\lwctest\\force-app\\main\\default\\lwc\\plasma\\plasma.js-meta.xml",
+        {
+            "sourcePath": "d:\\code\\lwctest\\force-app\\main\\default\\lwc\\plasma\\plasma.js-meta.xml",
+            "isDirectory": false,
+            "size": 371,
+            "modifiedTime": 1548314527812,
+            "changeTime": 1548314527812,
+            "contentHash": "bfcbe44de78b10606584411693d4985e59f6a565",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "d:\\code\\lwctest\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "d:\\code\\lwctest\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548313645903,
+            "changeTime": 1548313645903,
+            "contentHash": "28e133b04a995bc70db7d55a9681a70b8fd68cee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\code\\lwctest",
+        {
+            "sourcePath": "d:\\code\\lwctest",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548280179252,
+            "changeTime": 1548280179252,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "d:\\code\\lwctest\\force-app\\main\\default\\staticresources\\GLSL.resource-meta.xml",
+        {
+            "sourcePath": "d:\\code\\lwctest\\force-app\\main\\default\\staticresources\\GLSL.resource-meta.xml",
+            "isDirectory": false,
+            "size": 281,
+            "modifiedTime": 1548313645880,
+            "changeTime": 1548313645880,
+            "contentHash": "b58c062f884041fe37dad0aff1c5a770c3606580",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\code\\lwctest\\force-app\\main\\default\\staticresources\\GLSL\\GlslCanvas.js",
+        {
+            "sourcePath": "d:\\code\\lwctest\\force-app\\main\\default\\staticresources\\GLSL\\GlslCanvas.js",
+            "isDirectory": false,
+            "size": 71743,
+            "modifiedTime": 1548313646025,
+            "changeTime": 1548313646025,
+            "contentHash": "e406d841c017433b612462a58fe0af89f2cc2c12",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\code\\lwctest\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+        {
+            "sourcePath": "d:\\code\\lwctest\\force-app\\main\\default\\settings\\OrgPreference.settings-meta.xml",
+            "isDirectory": false,
+            "size": 6383,
+            "modifiedTime": 1548313646032,
+            "changeTime": 1548313646032,
+            "contentHash": "53153da293978b02d191b6ae64f72eae1e200c56",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\code\\lwctest\\force-app\\main\\default\\staticresources\\GLSL",
+        {
+            "sourcePath": "d:\\code\\lwctest\\force-app\\main\\default\\staticresources\\GLSL",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548313646010,
+            "changeTime": 1548313646010,
+            "contentHash": "8444438197c8959198e5fa47ef3a347cab18819a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "d:\\code\\lwctest\\force-app\\main\\default\\settings",
+        {
+            "sourcePath": "d:\\code\\lwctest\\force-app\\main\\default\\settings",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1548313646031,
+            "changeTime": 1548313646031,
+            "contentHash": "51a767161ecb76df77be39042e42cbb2d91005fb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
