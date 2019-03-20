@@ -127,7 +127,7 @@ export default class lwcGL extends LightningElement
         // Clear the color buffer with specified clear color
         gl.clear(gl.COLOR_BUFFER_BIT);
         
-       
+        vertexShader = gl.createShader(gl.VERTEX_SHADER);
         gl.shaderSource(vertexShader, vertex);
         gl.compileShader(vertexShader);
         
@@ -140,6 +140,8 @@ export default class lwcGL extends LightningElement
         gl.attachShader(program, fragmentShader);
         gl.linkProgram(program);	
         gl.useProgram(program);
+
+        gl.drawArrays(gl.TRIANGLES, 0, 3);
         
     }
 }
